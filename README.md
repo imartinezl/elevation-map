@@ -5,6 +5,8 @@ This data is available to download at : [http://srtm.csi.cgiar.org/srtmdata/](ht
 
 In addition, Europe's coastline was used, in shapefile format (available [here](https://www.eea.europa.eu/data-and-maps/data/eea-coastline-for-analysis-1/gis-data/europe-coastline-shapefile))
 
+Northern sea figure was published to [r/MapPorn](https://www.reddit.com/r/MapPorn/comments/d4c5r9/map_of_a_flooded_northern_sea_sea_level_rise_of/) subreddit.
+
 ## Figures
 
 ### Europe (sea level rise of 80m)
