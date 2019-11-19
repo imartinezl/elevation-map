@@ -10,21 +10,23 @@ Northern sea figure was published to [r/MapPorn](https://www.reddit.com/r/MapPor
 ## Figures
 
 ### Europe (sea level rise of 80m)
+![](figures_edit/europe_4-min.jpg)
+
+### UK (sea level rise of 80m)
+![](figures_edit/uk_1-min.jpg)
+
+### Spain (sea level rise of 80m) 
+![](figures_edit/spain_1-min.jpg)
+
+### Northern Sea (sea level rise of 50m)
+![](figures_edit/europe_6-min.jpg)
+
+### Europe (sea level rise of 80m)
 ![](figures_min/europe_2-min.png)
 
 ### Europe (sea level rise of 80m)
 ![](figures_min/europe_1-min.png)
 
-### Europe (sea level rise of 80m)
-![](figures_min/europe_4-min.png)
 
-### UK (sea level rise of 80m)
-![](figures_min/uk_1-min.png)
-
-### Spain (sea level rise of 80m) 
-![](figures_min/spain_1-min.png)
-
-### Northern Sea (sea level rise of 50m)
-![](figures_min/europe_6-min.png)
 
 
